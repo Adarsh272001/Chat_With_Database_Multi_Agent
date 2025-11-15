@@ -2,7 +2,7 @@
 
 Built using langflow Desktop
 
-*Made a  Database on AstraDB Vector database
+* Made a  Database on AstraDB Vector database
 *Create two collection 'Products' and 'orders' inside the database
 *Created one Manager Agent to which uses two other agents(Order-Lookup and FAQ) as tools
 *Implemented RAG to talk to the knowledge base
