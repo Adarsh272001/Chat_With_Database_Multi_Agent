@@ -2,6 +2,7 @@
 
 Built using langflow Desktop
 
+* import the json file on langflow desktop or langflow cloud to run.
 * Made a  Database on AstraDB Vector database
 * Create two collection 'Products' and 'orders' inside the database
 * Created one Manager Agent to which uses two other agents(Order-Lookup and FAQ) as tools
